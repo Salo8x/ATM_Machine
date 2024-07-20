@@ -1,0 +1,20 @@
+{
+    "0307": {
+        "account_number": "0307",
+        "pin": "1122",
+        "password": "salman1122",
+        "email": "salmanbutt4512@gmail.com",
+        "balance": 5000.0,
+        "transaction_history": [
+            "Deposited: $5000.0"
+        ]
+    },
+    "0306": {
+        "account_number": "0306",
+        "pin": "0000",
+        "password": "salman1122",
+        "email": "salmanbutt54545@gmail.com",
+        "balance": 0,
+        "transaction_history": []
+    }
+}
